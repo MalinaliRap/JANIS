@@ -8,7 +8,7 @@
 			<input type="text" name="id" disabled="true" readonly='true'></label>
 			</label>
        <label>Nome:
-         <input type="text">
+         <input type="text" name="" required="true">
        </label>
              <label>Descricao:
          <input type="text" maxlength="400">
