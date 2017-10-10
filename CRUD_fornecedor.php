@@ -5,7 +5,7 @@
 		<fieldset>
 			<legend> Informações sobre o fornecedor </legend>
       <label>ID:
-			<input type="text" name="id" disabled="true"></label>
+			<input type="text" name="id" disabled="true" readonly='true'></label>
 			</label>
       <label>Nome:
 			<input type="text" name="" required="true"></label>
